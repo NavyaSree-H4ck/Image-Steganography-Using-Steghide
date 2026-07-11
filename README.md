@@ -107,6 +107,8 @@ exiftool flower.jpg
 
 The complete practical report, including **step-by-step procedures, command explanations, screenshots, observations, metadata analysis, and hash comparison**, is available in the attached PDF document.
 
+📄 **[Image-Steganography-Using-Steghide.pdf](./Image-Steganography-Using-Steghide.pdf)**
+
 
 ## 📂 Repository Structure
 
